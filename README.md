@@ -53,8 +53,11 @@ Login do usuário root desabilitado
 
 <img width="890" height="151" alt="Screenshot from 2026-01-20 03-34-40" src="https://github.com/user-attachments/assets/387e72f2-d7d3-4ec3-831d-93d2879296ea" />
 
-7) Teste de Acesso na Nova Porta
+7) Teste de Bloqueio do Usuário Root
    
 <img width="904" height="185" alt="Screenshot from 2026-01-20 03-35-25" src="https://github.com/user-attachments/assets/b645a13e-d3ab-4935-b954-05ed96e5da39" />
 
+Conclusão
+
+O serviço OpenSSH foi instalado, configurado e protegido com sucesso, utilizando porta alternativa e bloqueio de acesso remoto ao usuário root, conforme solicitado no laboratório prático.
 
